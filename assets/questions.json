@@ -1,0 +1,206 @@
+[
+    {
+      "question": "Which pet would you choose for life?",
+      "options": [
+        { "text": "A teleporting hedgehog", "isCorrect": true },
+        { "text": "A singing lizard that only knows 90s pop", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You must live in one of these places forever:",
+      "options": [
+        { "text": "A floating castle with no Wi-Fi", "isCorrect": true },
+        { "text": "A giant underground library where books whisper secrets at night", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your superpower has a catch. Choose wisely!",
+      "options": [
+        { "text": "Invisibility, but you sneeze glitter every time", "isCorrect": true },
+        { "text": "Flying, but only when telling embarrassing stories aloud", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which outfit would you wear to every formal event?",
+      "options": [
+        { "text": "A tuxedo made of spaghetti", "isCorrect": true },
+        { "text": "A ballgown that hums circus music as you walk", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "One must become your new laugh:",
+      "options": [
+        { "text": "A goat’s bleat", "isCorrect": true },
+        { "text": "A foghorn blast", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Every time you enter a room...",
+      "options": [
+        { "text": "Confetti explodes from your pockets", "isCorrect": true },
+        { "text": "A marching band plays your theme song for 10 seconds", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which would you rather battle in a trivia contest?",
+      "options": [
+        { "text": "A genius raccoon in a tiny suit", "isCorrect": true },
+        { "text": "An AI toaster with a sass setting on MAX", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You win a lifetime supply of one item:",
+      "options": [
+        { "text": "Giant glitter cannons", "isCorrect": true },
+        { "text": "Croissants that double as walkie-talkies", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your phone only does one thing now:",
+      "options": [
+        { "text": "Summons random ducks", "isCorrect": true },
+        { "text": "Changes every photo into spaghetti art", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You must perform in a talent show every week. What’s your act?",
+      "options": [
+        { "text": "Interpretive dance with baguettes", "isCorrect": true },
+        { "text": "Opera singing in a shark costume", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which magical curse do you accept?",
+      "options": [
+        { "text": "You hiccup bubbles when nervous", "isCorrect": true },
+        { "text": "Your shoes moo once an hour", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which job do you secretly have at night?",
+      "options": [
+        { "text": "A fortune-telling squirrel translator", "isCorrect": true },
+        { "text": "The official unicorn hair stylist", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your new roommate is:",
+      "options": [
+        { "text": "A ghost obsessed with karaoke", "isCorrect": true },
+        { "text": "A cat that critiques your life choices in Shakespearean English", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your alarm clock every morning is now:",
+      "options": [
+        { "text": "A rooster that raps motivational lyrics", "isCorrect": true },
+        { "text": "A mime that silently judges you until you wake up", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You win a game show. Your prize?",
+      "options": [
+        { "text": "A lifetime supply of glow-in-the-dark socks", "isCorrect": true },
+        { "text": "A mansion built entirely of cheese", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Choose your forever mode of transportation:",
+      "options": [
+        { "text": "A unicycle with jet boosters", "isCorrect": true },
+        { "text": "A giant inflatable duck that floats through traffic", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your new best friend is:",
+      "options": [
+        { "text": "A grumpy wizard who texts only in riddles", "isCorrect": true },
+        { "text": "A robot that calls everyone “Captain Snugglepants”", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which food becomes sentient and follows you around?",
+      "options": [
+        { "text": "A jealous taco", "isCorrect": true },
+        { "text": "A polite but clingy slice of cake", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Every time you yawn:",
+      "options": [
+        { "text": "You teleport to a random location within your house", "isCorrect": true },
+        { "text": "You speak fluent squirrel for 5 seconds", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "One of these follows you everywhere, forever. Choose:",
+      "options": [
+        { "text": "A tiny choir that sings your thoughts", "isCorrect": true },
+        { "text": "A slow-motion squirrel clapping for your every move", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your laugh is now transformed. Which do you pick?",
+      "options": [
+        { "text": "A rubber chicken squeak", "isCorrect": true },
+        { "text": "A dramatic movie trailer voice", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Every selfie you take turns into:",
+      "options": [
+        { "text": "A medieval portrait with a dragon in the background", "isCorrect": true },
+        { "text": "A potato with googly eyes and your smile", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You can only communicate via one method:",
+      "options": [
+        { "text": "Shadow puppets", "isCorrect": true },
+        { "text": "Interpretive kazoo solos", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your new pet is extremely loyal but:",
+      "options": [
+        { "text": "Is a flamingo that insists on wearing tiny boots", "isCorrect": true },
+        { "text": "A goldfish that dramatically faints whenever you sneeze", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your hands are replaced with:",
+      "options": [
+        { "text": "Miniature disco balls", "isCorrect": true },
+        { "text": "Tiny fog machines that activate when you’re excited", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which would you rather host at your house every weekend?",
+      "options": [
+        { "text": "A tea party with sarcastic llamas", "isCorrect": true },
+        { "text": "A trivia night with confused time travelers", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "You must end every sentence with a sound effect. Choose:",
+      "options": [
+        { "text": "“Boing!”", "isCorrect": true },
+        { "text": "A thunderclap", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Your voice now echoes like you’re in a...",
+      "options": [
+        { "text": "Spooky cave", "isCorrect": true },
+        { "text": "Glitter-filled stadium", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which fashion statement must you wear to every important event?",
+      "options": [
+        { "text": "A hat shaped like a confused pigeon", "isCorrect": true },
+        { "text": "Trousers that sing lullabies when you sit down", "isCorrect": false }
+      ]
+    }
+  ]
+  
