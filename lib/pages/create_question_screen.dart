@@ -1,6 +1,7 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/cubit/my_question_cubit/my_question_cubit.dart';
 
 class CreateQuestionScreen extends StatefulWidget {
@@ -64,9 +65,9 @@ class _CreateQuestionScreenState extends State<CreateQuestionScreen> {
     return WillPopScope(
       onWillPop: _onWillPop,
       child: Scaffold(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.primaryColor,
         appBar: AppBar(
-          backgroundColor: Colors.transparent,
+          backgroundColor: AppColors.primaryColor,
           elevation: 0,
           automaticallyImplyLeading: false,
           title: Row(

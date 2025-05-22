@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_fortune_wheel/flutter_fortune_wheel.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/cubit/wheel_cubit/wheel_cubit.dart';
 
 class WheelSpinScreen extends StatefulWidget {
@@ -51,7 +52,7 @@ class _WheelSpinScreenState extends State<WheelSpinScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.primaryColor,
         elevation: 0,
         automaticallyImplyLeading: false,
         title: Row(

@@ -1,6 +1,7 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../services/audio_service.dart';
 
@@ -18,9 +19,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.transparent,
+      backgroundColor: AppColors.primaryColor,
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.primaryColor,
         elevation: 0,
         automaticallyImplyLeading: false,
         title: Row(

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/cubit/wheel_cubit/wheel_cubit.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/pages/create_wheel_screen.dart';
 
@@ -42,9 +43,9 @@ class WheelScreen extends StatelessWidget {
     }
 
     return Scaffold(
-      backgroundColor: Colors.transparent,
+      backgroundColor: AppColors.primaryColor,
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.primaryColor,
         elevation: 0,
         automaticallyImplyLeading: false,
         title: Row(

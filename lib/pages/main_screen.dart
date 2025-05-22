@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/pages/game_screen.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/pages/my_questions_screen.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/pages/settings_screen.dart';
@@ -19,7 +20,7 @@ class MainScreen extends StatelessWidget {
           ),
         ),
         Scaffold(
-          backgroundColor: Colors.transparent,
+          backgroundColor: AppColors.primaryColor,
           body: SafeArea(
             child: Padding(
               padding: const EdgeInsets.symmetric(

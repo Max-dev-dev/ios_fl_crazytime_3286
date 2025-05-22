@@ -3,6 +3,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:ios_f_n_fantastictimetodecide_3286/app.dart';
 import 'package:ios_f_n_fantastictimetodecide_3286/cubit/questions/questions_cubit.dart';
 import 'package:share_plus/share_plus.dart';
 
@@ -73,9 +74,9 @@ class _GameActionScreenState extends State<GameActionScreen> {
     return WillPopScope(
       onWillPop: _onWillPop,
       child: Scaffold(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.primaryColor,
         appBar: AppBar(
-          backgroundColor: Colors.transparent,
+          backgroundColor: AppColors.primaryColor,
           elevation: 0,
           automaticallyImplyLeading: false,
           title: Row(
