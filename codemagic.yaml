@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.fantastictime.todecide
+        bundle_identifier: comfantastictimetodecide
       vars:
         APP_ID: 6746240748
       flutter: stable
