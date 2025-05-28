@@ -20,7 +20,7 @@ class MainScreen extends StatelessWidget {
           ),
         ),
         Scaffold(
-          backgroundColor: AppColors.primaryColor,
+          backgroundColor: Colors.transparent,
           body: SafeArea(
             child: Padding(
               padding: const EdgeInsets.symmetric(
@@ -34,7 +34,7 @@ class MainScreen extends StatelessWidget {
                   const SizedBox(height: 30),
                   _buildMenuButton(
                     'Friends & Choices',
-                    '🤹',
+                    Icons.people_outline,
                     screenWidth > 375 ? 100 : 80,
                     () {
                       Navigator.push(
@@ -48,7 +48,7 @@ class MainScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   _buildMenuButton(
                     'The Decision Wheel',
-                    '🔮',
+                    Icons.casino,
                     screenWidth > 375 ? 100 : 80,
                     () {
                       Navigator.push(
@@ -62,7 +62,7 @@ class MainScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   _buildMenuButton(
                     'Create Your Show',
-                    '✍️',
+                    Icons.edit_note,
                     screenWidth > 375 ? 100 : 80,
                     () {
                       Navigator.push(
@@ -76,7 +76,7 @@ class MainScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   _buildMenuButton(
                     'The Ringmaster\'s Tent',
-                    '🎩',
+                    Icons.settings,
                     screenWidth > 375 ? 100 : 80,
                     () {
                       Navigator.push(
@@ -99,7 +99,7 @@ class MainScreen extends StatelessWidget {
 
   Widget _buildMenuButton(
     String title,
-    String emoji,
+    IconData iconData,
     double height,
     VoidCallback onTap,
   ) {
@@ -124,7 +124,7 @@ class MainScreen extends StatelessWidget {
                 fontWeight: FontWeight.w600,
               ),
             ),
-            Text(emoji, style: const TextStyle(fontSize: 40)),
+            Icon(iconData, size: 36, color: Colors.white),
           ],
         ),
       ),

@@ -7,7 +7,7 @@ import 'package:ios_f_n_fantastictimetodecide_3286/cubit/wheel_cubit/wheel_cubit
 import 'package:ios_f_n_fantastictimetodecide_3286/pages/splash_screen.dart';
 
 class AppColors{
-  static Color primaryColor = Colors.white.withOpacity(0.01);
+  static Color primaryColor = const Color.fromARGB(255, 156, 34, 48);
 }
 
 class MainApp extends StatelessWidget {

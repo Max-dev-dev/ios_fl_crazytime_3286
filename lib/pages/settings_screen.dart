@@ -78,7 +78,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             const SizedBox(height: 16),
             GestureDetector(
               onTap: () async {
-                final uri = Uri.parse('https://example.com/terms');
+                final uri = Uri.parse('https://www.termsfeed.com/live/785effe9-eb6c-482f-9bed-a8d2eb510617');
                 if (await canLaunchUrl(uri)) {
                   await launchUrl(uri);
                 }
